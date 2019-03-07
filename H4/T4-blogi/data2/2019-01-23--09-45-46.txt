@@ -1,0 +1,4 @@
+  <div class='merkinta'>
+  <h4>Mietintä</h4>
+  <p>Dont drink water after eating fish because fish live in water and the fish will go GULU GULU in your stomach</p>
+  </div>
